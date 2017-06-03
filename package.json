@@ -1,6 +1,6 @@
 {
   "name": "shintech-info",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "build/index.js",
   "repository": "https://github.com/shintech/shintech-info",
   "author": "Michael Prather",

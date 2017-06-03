@@ -17,5 +17,5 @@ Get info about running NodeJS app.
     
     // Start your app with an argument where your package.json resides.
     
-    npm start /home/user/app/
+    ROOT_DIR=/home/user/backbone_postgres_seed npm start 
     

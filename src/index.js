@@ -1,6 +1,6 @@
 import chalk from 'chalk'
 
-const packageDir = process.argv[2] + 'package.json'
+const packageDir = process.env.ROOT_DIR + 'package.json'
 const pkg = require(packageDir)
 const packageName = pkg.name
 const packageVersion = pkg.version
